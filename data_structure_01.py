@@ -10,7 +10,7 @@ hau
 >>> print(my_name)
 Rajesh
 >>> my_int = 5
->>> type(my_int)
+>>> type(my_int) "dai thambi"
 <class 'int'>
 >>> print(my_int)
 5
@@ -26,7 +26,7 @@ Rajesh
 [5, 14, 123]
 >>> my_tuple = (123, 145, 123)
 >>> type(my_tuple)
-<class 'tuple'>
+<class 'tuple'>uhh
 >>> print(my_tuple)
 (123, 145, 123)
 >>> my_set = {123, 124, 167}
