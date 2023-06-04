@@ -11,7 +11,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 48 // 10
 4
 >>> 5 *** 5
-SyntaxError: invalid syntax
+SyntaxError: invalid syntax hai rajesh how are u
 >>> 5 ** 4
 625
 >>> 5 > 4
